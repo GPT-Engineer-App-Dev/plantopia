@@ -12,7 +12,7 @@ const Index = () => {
           Discover the beauty and benefits of houseplants. Join our community and start your journey to a greener life.
         </Text>
         <Box boxSize="sm">
-          <Image src="/images/plant.jpg" alt="Beautiful houseplant" borderRadius="md" />
+          <Image src="/images/tree.jpg" alt="Beautiful houseplant" borderRadius="md" />
         </Box>
         <Button colorScheme="teal" size="lg" rightIcon={<FaLeaf />}>
           Get Started
